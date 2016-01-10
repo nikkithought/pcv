@@ -1,0 +1,21 @@
+<html> 
+
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+<body style="text-align:center">
+<h1> PCVapp</h1>
+<br>
+<br>
+<br>
+<i class="fa fa-home" style="font-size:120px">
+</i>
+<br><br><br>
+<a href="design.html">
+<input type=button value="Design New PCV">
+</a>
+<br><br><br><br>
+<a href="list.html">
+<input type=button value="List of PCV">
+</a>
+
+</body>
+</html>
