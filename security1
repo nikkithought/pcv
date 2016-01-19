@@ -1,0 +1,45 @@
+<html>
+	<head>
+		 <title>
+		 Security1
+		 </title>
+		 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+		 <style>
+		      span.main{margin:auto;display:table;border:1px;color:purple;font-size:80%}
+		 </style>
+		 <style>
+         span.main1 {margin:auto;display:table;border:1px;color:black;font-size:50%}
+         </style> 
+	 </head>
+	 
+	 <body>
+		 <a href="design2.html">
+		     <i class="fa fa-chevron-circle-left" style="font-size:80px"></i>
+		 </a>
+		 <a href="index.html">
+         <i class="fa fa-home" style="font-size:80px"></i>
+		 </a>
+		 <h1><span class="main"> Choose a process of verification</span>
+		 </h1>
+		 <br>
+		 <br>
+		 <a href="security2.html"> 
+			 <span class="main1">
+				 <input type=button value="Pin Number">
+			 </span>
+		 </a>	
+		 <br>
+		 <br>
+		 <a href="security3.html"> 
+			 <span class="main1">
+				 <input type=button value="Signature">
+			 </span>
+		 </a>
+		 
+
+		 <br>
+		 <br>
+
+	 </body>
+</html>
